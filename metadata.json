@@ -1,0 +1,6 @@
+{
+  "name": "LogoCraft AI - Logo Studio & Veo Video Animator",
+  "description": "Design high-quality company logos with Gemini and generate cinematic animated videos using Veo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
